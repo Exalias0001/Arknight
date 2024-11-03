@@ -1,12 +1,26 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mGot Error
-MSG: Failed to setup tunnel client
-Error: RequestError(TooManyRequests)
-[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1730614064228 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0mGot Error
+MSG: Failed to load data from api
+retrying in 3 seconds
+Error: TooManyRequests
+[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730614377201 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 meeting-medicare.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1730614067295 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730614380276 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+meeting-medicare.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730614383332 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+meeting-medicare.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730614386384 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -14,13 +28,156 @@ meeting-medicare.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1730614082385 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730614401465 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 meeting-medicare.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1730614085450 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730614404545 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 meeting-medicare.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730614419638 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+meeting-medicare.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730614422693 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+meeting-medicare.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730614437783 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+meeting-medicare.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730614440839 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+meeting-medicare.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730614443947 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+meeting-medicare.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730614459045 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+meeting-medicare.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730614462104 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+meeting-medicare.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730614465167 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+meeting-medicare.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730614480245 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+meeting-medicare.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730614483331 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+meeting-medicare.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730614498436 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+meeting-medicare.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730614501492 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+meeting-medicare.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730614516573 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+meeting-medicare.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730614519628 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+meeting-medicare.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730614534706 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+meeting-medicare.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730614537881 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+meeting-medicare.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730614540942 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+meeting-medicare.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730614556025 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+meeting-medicare.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730614559079 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+meeting-medicare.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730614540639 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+meeting-medicare.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730614555718 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+meeting-medicare.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730614558793 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+meeting-medicare.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
