@@ -160,7 +160,12 @@ meeting-medicare.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1730614540639 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730614574162 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+meeting-medicare.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730614577224 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -168,12 +173,12 @@ meeting-medicare.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1730614555718 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730614592322 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 meeting-medicare.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1730614558793 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730614595385 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -181,3 +186,29 @@ meeting-medicare.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730614610502 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+meeting-medicare.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730614592046 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+meeting-medicare.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730614595104 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+meeting-medicare.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730614610211 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+meeting-medicare.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
